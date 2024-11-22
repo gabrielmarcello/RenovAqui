@@ -1,14 +1,14 @@
 Esse é o site RenovAqui, feito para você encontrar pessoas que invistam junto com você!
 
 Integrantes: 
-Leo Mota
-Nicolas Meira
-Gabriel Marcello
+Leo Mota RM557851 
+Nicolas Meira RM554464
+Gabriel Marcello RM556783
 
 
-Lik do youtube: 
+Link do youtube: https://youtu.be/7keuYnTZqYQ
 
-Link do github: https://github.com/nicolasmeira5/RenovAqui.git
+Link do github: https://github.com/gabrielmarcello/RenovAqui
 
 
 Procedimentos para rodar a api de python:

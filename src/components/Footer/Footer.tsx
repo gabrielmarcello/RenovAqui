@@ -12,7 +12,7 @@ function Footer(){
                             <ListItem title="Gabriel Marcello" linkTo='/integrantes/#leo'/>
                             <ListItem title='Nicolas Meira' linkTo='/integrantes/#nicolas'/>
                             <ListItem title='Leo Mota' linkTo='/integrantes/'/>
-                            <ListItem title='GitHub' linkTo='https://github.com/nicolasmeira5/RenovAqui'/>
+                            <ListItem title='GitHub' linkTo='https://github.com/gabrielmarcello/RenovAqui'/>
                             <ListItem title='Pitch' linkTo='https://youtu.be/lxFctyiI4GU'/>
                             <ListItem title='Tour' linkTo='https://youtu.be/7keuYnTZqYQ'/>
                         </ul>
